@@ -17,5 +17,4 @@ DADOS_CONSOLIDADOS = PASTA_DADOS / "canada_consolidados.parquet"
 DADOS_TRATADOS = PASTA_DADOS / "canada_tratados.parquet"
 
 # coloque abaixo o caminho para os arquivos de modelos de seu projeto
-PASTA_MODELOS = PASTA_PROJETO / "modelos"
-MODELO_FINAL = PASTA_MODELOS / "ridge.joblib"
+MODELO_FINAL = PASTA_DADOS / "ridge.joblib"
