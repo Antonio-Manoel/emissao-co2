@@ -1,8 +1,5 @@
 # Dicionário de dados
 
-Base retirada do site do [governo
-canadense](https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64).
-
 Detalhes sobre as terminologias estão disponíveis
 [aqui](https://natural-resources.canada.ca/energy-efficiency/transportation-alternative-fuels/personal-vehicles/choosing-right-vehicle/buying-electric-vehicle/understanding-the-tables/21383)
 e resumidos a seguir.
